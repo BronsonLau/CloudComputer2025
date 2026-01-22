@@ -1,5 +1,6 @@
 # SmartLecPPTKiller：A Smart PPT Extractor and Teaching Assistant
 
+### 命题1 + 命题2
 ### 完成人：[柯宇](https://github.com/BronsonLau) | [王可楠](https://github.com/Jiu-956)
 ### 原仓库地址(可看开发记录)：[SmartLecPPTKiller：A Smart PPT Extractor and Teaching Assistant](https://github.com/BronsonLau/SmartLecPPTKiller-A-Smart-PPT-Extractor-and-Teaching-Assistant)
 #### 项目所属组织：[中国·华东师范大学OpenEduTech实验室](https://github.com/OpenEduTech)
